@@ -1,0 +1,258 @@
+<?xml version=1.0 encoding=utf-8 ?>
+<categories>
+<category Name="Bakery Products and Breads">			
+<foods>
+<food Name = "Angel food cake" GI = "67" GIFull = "67 +/- 2" Serving = "50 grams" GL = "19" />
+<food Name = "Banana cake, made with sugar" GI = "47" GIFull = "47 +/- 8" Serving = "80 grams" GL = "18" />
+<food Name = "Banana cake, made without sugar" GI = "55" GIFull = "55 +/- 10" Serving = "80 grams" GL = "16" />
+<food Name = "Chocolate cake with chocolate frosting" GI = "38" GIFull = "38 +/- 3" Serving = "111 grams" GL = "20" />
+<food Name = "Cupcake, strawberry-iced" GI = "73" GIFull = "73 +/- 12" Serving = "38 grams" GL = "19" />
+<food Name = "Pound cake" GI = "54" GIFull = "54" Serving = "53 grams" GL = "15" />
+<food Name = "Sponge cake, plain" GI = "46" GIFull = "46 +/- 6" Serving = "63 grams" GL = "17" />
+<food Name = "Vanilla cake with vanilla frosting" GI = "42" GIFull = "42 +/- 4" Serving = "111 grams" GL = "24" />
+<food Name = "Croissant" GI = "67" GIFull = "67" Serving = "57 grams" GL = "17" />
+<food Name = "Crumpet" GI = "69" GIFull = "69" Serving = "50 grams" GL = "13" />
+<food Name = "Doughnut" GI = "76" GIFull = "76" Serving = "47 grams" GL = "17" />
+<food Name = "Flan cake" GI = "65" GIFull = "65" Serving = "70 grams" GL = "31" />
+<food Name = "Apple muffin, made with sugar" GI = "44" GIFull = "44 +/- 6" Serving = "60 grams" GL = "13" />
+<food Name = "Apple muffin made without sugar" GI = "48" GIFull = "48 +/- 10" Serving = "60 grams" GL = "9" />
+<food Name = "Apricot muffin" GI = "60" GIFull = "60 +/- 4" Serving = "50 grams" GL = "16" />
+<food Name = "Banana muffin" GI = "65" GIFull = "65 +/- 11" Serving = "50 grams" GL = "17" />
+<food Name = "Bran muffin" GI = "60" GIFull = "60" Serving = "57 grams" GL = "15" />
+<food Name = "Blueberry muffin" GI = "59" GIFull = "59" Serving = "57 grams" GL = "17" />
+<food Name = "Carrot muffin" GI = "62" GIFull = "62" Serving = "57 grams" GL = "20" />
+<food Name = "Chocolate butterscotch muffin" GI = "53" GIFull = "53 +/- 5" Serving = "50 grams" GL = "15" />
+<food Name = "Corn muffin, low-amylose" GI = "102" GIFull = "102" Serving = "57 grams" GL = "30" />
+<food Name = "Corn muffin, high-amylose" GI = "49" GIFull = "49" Serving = " grams" GL = "" />
+<food Name = "Oatmeal muffin" GI = "69" GIFull = "69" Serving = "50 grams" GL = "24" />
+<food Name = "Pancakes" GI = "67" GIFull = "67 +/- 5" Serving = "80 grams" GL = "39" />
+<food Name = "Pancakes, gluten-free" GI = "102" GIFull = "102 +/- 11" Serving = "77 grams" GL = "22" />
+<food Name = "Pastry" GI = "59" GIFull = "59 +/- 6" Serving = "57 grams" GL = "15" />
+<food Name = "Scones, plain" GI = "92" GIFull = "92 +/- 8" Serving = "25 grams" GL = "7" />
+<food Name = "Waffles, Aunt Jemima" GI = "76" GIFull = "76" Serving = "35 grams" GL = "10" />
+<food Name = "Bagel, white, frozen" GI = "72" GIFull = "72" Serving = "70 grams" GL = "25" />
+<food Name = "Baguette, white, plain" GI = "95" GIFull = "95 +/- 15" Serving = "30 grams" GL = "15" />
+<food Name = "Coarse barley bread, 75-80% kernels, average" GI = "34" GIFull = "34 +/- 4" Serving = "30 grams" GL = "7" />
+<food Name = "Buckwheat bread" GI = "47" GIFull = "47" Serving = "30 grams" GL = "10" />
+<food Name = "Hamburger bun" GI = "61" GIFull = "61" Serving = "30 grams" GL = "9" />
+<food Name = "Kaiser roll" GI = "73" GIFull = "73" Serving = "30 grams" GL = "12" />
+<food Name = "Melba toast" GI = "70" GIFull = "70" Serving = "30 grams" GL = "16" />
+<food Name = "Pumpernickel bread" GI = "50" GIFull = "50 +/- 4" Serving = "30 grams" GL = "6" />
+<food Name = "Gluten-free multigrain bread" GI = "79" GIFull = "79 +/- 13" Serving = "30 grams" GL = "10" />
+<food Name = "Rye-kernel bread, pumpernickel" GI = "41" GIFull = "41" Serving = "30 grams" GL = "5" />
+<food Name = "50% cracked wheat kernel bread" GI = "58" GIFull = "58" Serving = "30 grams" GL = "12" />
+<food Name = "White wheat flour bread" GI = "70" GIFull = "70 +/- 0" Serving = "30 grams" GL = "10" />
+<food Name = "Wonder bread, average" GI = "73" GIFull = "73 +/- 2" Serving = "30 grams" GL = "10" />
+<food Name = "Whole wheat bread, average" GI = "71" GIFull = "71 +/- 2" Serving = "30 grams" GL = "9" />
+<food Name = "100% Whole Grain bread" GI = "51" GIFull = "51 +/- 11" Serving = "30 grams" GL = "7" />
+<food Name = "Pita bread, white" GI = "57" GIFull = "57" Serving = "30 grams" GL = "10" />
+<food Name = "Corn tortilla" GI = "52" GIFull = "52" Serving = "50 grams" GL = "12" />
+<food Name = "Wheat tortilla" GI = "30" GIFull = "30" Serving = "50 grams" GL = "8" />
+</foods>
+</category>
+<category Name="Beverages">
+<foods>
+<food Name = "Coca Cola, average" GI = "58" GIFull = "58 +/- 5" Serving = "250 grams" GL = "15" />
+<food Name = "Fanta, orange soft drink" GI = "68" GIFull = "68 +/- 6" Serving = "250 grams" GL = "23" />
+<food Name = "Lucozade, original (sparkling glucose drink)" GI = "95" GIFull = "95 +/- 10" Serving = "250 grams" GL = "40" />
+<food Name = "Apple juice, unsweetened, average" GI = "40" GIFull = "40 +/- 1" Serving = "250 grams" GL = "12" />
+<food Name = "Cranberry juice cocktail" GI = "68" GIFull = "68 +/- 3" Serving = "250 grams" GL = "24" />
+<food Name = "Grapefruit juice, unsweetened" GI = "48" GIFull = "48" Serving = "250 grams" GL = "11" />
+<food Name = "Orange juice, average" GI = "50" GIFull = "50 +/- 4" Serving = "250 grams" GL = "13" />
+<food Name = "Pineapple juice, unsweetened" GI = "46" GIFull = "46" Serving = "250 mL" GL = "16" />
+<food Name = "Tomato juice, canned" GI = "38" GIFull = "38 +/- 4" Serving = "250 grams" GL = "4" />
+<food Name = "Gatorade" GI = "78" GIFull = "78 +/- 13" Serving = "250 mL" GL = "12" />
+<food Name = "Hot Chocolate mix made with hot water" GI = "51" GIFull = "51 +/- 3" Serving = "250 mL" GL = "11" />
+<food Name = "Chocolate Milk" GI = "43" GIFull = "43 +/- 3" Serving = "50 grams" GL = "12" />
+</foods>
+</category>
+<category Name="Breakfast Cereals and Related Products">
+<foods>
+<food Name = "All-Bran, average" GI = "42" GIFull = "42 +/- 5" Serving = "30 grams" GL = "4" />
+<food Name = "Bran Flakes" GI = "74" GIFull = "74" Serving = "30 grams" GL = "13" />
+<food Name = "Cheerios" GI = "74" GIFull = "74" Serving = " grams" GL = "" />
+<food Name = "Coco Pops, average" GI = "77" GIFull = "77" Serving = "30 grams" GL = "20" />
+<food Name = "Corn Bran" GI = "75" GIFull = "75" Serving = "30 grams" GL = "15" />
+<food Name = "Corn Chex" GI = "83" GIFull = "83" Serving = "30 grams" GL = "21" />
+<food Name = "Corn Pops" GI = "80" GIFull = "80 +/- 4" Serving = "30 grams" GL = "21" />
+<food Name = "Cornflakes, average" GI = "81" GIFull = "81 +/- 3" Serving = "30 grams" GL = "21" />
+<food Name = "Cream of Wheat" GI = "66" GIFull = "66" Serving = "250 grams" GL = "17" />
+<food Name = "Cream of Wheat, Instant" GI = "74" GIFull = "74" Serving = "250 grams" GL = "22" />
+<food Name = "Crispix" GI = "87" GIFull = "87" Serving = "30 grams" GL = "22" />
+<food Name = "Froot Loops" GI = "69" GIFull = "69 +/- 9" Serving = "30 grams" GL = "18" />
+<food Name = "Golden Grahams" GI = "71" GIFull = "71" Serving = "30 grams" GL = "18" />
+<food Name = "Golden Wheats" GI = "71" GIFull = "71 +/- 8" Serving = "30 grams" GL = "16" />
+<food Name = "Grapenuts, average" GI = "71" GIFull = "71 +/- 4" Serving = "30 grams" GL = "15" />
+<food Name = "Life" GI = "66" GIFull = "66" Serving = "30 grams" GL = "15" />
+<food Name = "Mini Wheats, whole wheat" GI = "58" GIFull = "58 +/- 8" Serving = "30 grams" GL = "12" />
+<food Name = "Muesli, average" GI = "66" GIFull = "66 +/- 9" Serving = "30 grams" GL = "16" />
+<food Name = "Oatmeal, average" GI = "58" GIFull = "58 +/- 4" Serving = "250 grams" GL = "13" />
+<food Name = "Instant oatmeal, average" GI = "66" GIFull = "66 +/- 1" Serving = "250 grams" GL = "17" />
+<food Name = "Pop Tarts, double chocolate" GI = "70" GIFull = "70 +/- 2" Serving = "50 grams" GL = "25" />
+<food Name = "Puffed wheat, average" GI = "74" GIFull = "74 +/- 7" Serving = "30 grams" GL = "16" />
+<food Name = "Raisin Bran" GI = "61" GIFull = "61 +/- 5" Serving = "30 grams" GL = "12" />
+<food Name = "Rice Chex" GI = "89" GIFull = "89" Serving = "30 grams" GL = "23" />
+<food Name = "Rice Krispies" GI = "82" GIFull = "82" Serving = "30 grams" GL = "22" />
+<food Name = "Shredded wheat, average" GI = "75" GIFull = "75" Serving = "30 grams" GL = "22" />
+<food Name = "Special K" GI = "69" GIFull = "69 +/- 5" Serving = "30 grams" GL = "14" />
+</foods>
+</category>
+<category Name="Grains">
+<foods>
+<food Name = "Pearled barley, average" GI = "25" GIFull = "25 +/- 1" Serving = "150 grams" GL = "11" />
+<food Name = "Sweet corn on the cob, average" GI = "53" GIFull = "53 +/- 4" Serving = "150 grams" GL = "17" />
+<food Name = "Couscous, average" GI = "65" GIFull = "65 +/- 4" Serving = "150 grams" GL = "23" />
+<food Name = "White rice, average" GI = "64" GIFull = "64 +/- 7" Serving = "150 grams" GL = "23" />
+<food Name = "Quick cooking white basmati" GI = "60" GIFull = "60 +/- 5" Serving = "150 grams" GL = "23" />
+<food Name = "Basmati rice, average" GI = "58" GIFull = "58" Serving = "150 grams" GL = "23" />
+<food Name = "Brown rice, average" GI = "55" GIFull = "55 +/- 5" Serving = "150 grams" GL = "18" />
+<food Name = "Converted, white rice" GI = "38" GIFull = "38" Serving = "150 grams" GL = "14" />
+<food Name = "Whole wheat kernels, average" GI = "41" GIFull = "41 +/- 3" Serving = "50 grams" GL = "14" />
+<food Name = "Bulgur, average" GI = "48" GIFull = "48 +/- 2" Serving = "150 grams" GL = "12" />
+</foods>
+</category>
+<category Name="Cookies and Crackers">
+<foods>
+<food Name = "Graham crackers" GI = "74" GIFull = "74" Serving = "25 grams" GL = "14" />
+<food Name = "Oatmeal cookies" GI = "54" GIFull = "54 +/- 4" Serving = "25 grams" GL = "9" />
+<food Name = "Vanilla wafers" GI = "77" GIFull = "77" Serving = "25 grams" GL = "14" />
+<food Name = "Shortbread" GI = "64" GIFull = "64 +/- 8" Serving = "25 grams" GL = "10" />
+<food Name = "Rice cakes, average" GI = "78" GIFull = "78 +/- 9" Serving = "25 grams" GL = "17" />
+<food Name = "Rye crisps, average" GI = "64" GIFull = "64 +/- 2" Serving = "25 grams" GL = "11" />
+<food Name = "Soda crackers" GI = "74" GIFull = "74" Serving = "25 grams" GL = "12" />
+<food Name = "Breton Wheat crackers" GI = "67" GIFull = "67" Serving = "25 grams" GL = "10" />
+<food Name = "Stoned Wheat Thins" GI = "67" GIFull = "67" Serving = "25 grams" GL = "12" />
+<food Name = "Soda Crackers" GI = "74" GIFull = "74" Serving = "25 grams" GL = "12" />
+<food Name = "Vita-wheat, original, crispbread" GI = "55" GIFull = "55 +/- 4" Serving = "25 grams" GL = "10" />
+</foods>
+</category>
+<category Name="Dairy Products and Alternatives">
+<foods>
+<food Name = "Custard" GI = "38" GIFull = "38 +/- 2" Serving = "100 grams" GL = "6" />
+<food Name = "Ice cream, regular" GI = "61" GIFull = "61 +/- 7" Serving = "50 grams" GL = "8" />
+<food Name = "Ice cream, premium" GI = "37" GIFull = "37 +/- 3" Serving = "50 grams" GL = "4" />
+<food Name = "Ice cream, reduced or low-fat" GI = "43" GIFull = "43" Serving = "50 grams" GL = "5" />
+<food Name = "Milk, full fat" GI = "27" GIFull = "27 +/- 4" Serving = "250 grams" GL = "3" />
+<food Name = "Milk, skim" GI = "32" GIFull = "32 +/- 5" Serving = "250 grams" GL = "4" />
+<food Name = "Soy milk" GI = "32" GIFull = "32 +/- 2" Serving = "250 grams" GL = "7" />
+<food Name = "Mousse, reduced-fat" GI = "34" GIFull = "34 +/- 1" Serving = "50 grams" GL = "4" />
+<food Name = "Pudding" GI = "44" GIFull = "44 +/- 4" Serving = "100 grams" GL = "7" />
+<food Name = "Yogurt" GI = "36" GIFull = "36 +/- 4" Serving = "200 grams" GL = "3" />
+<food Name = "Yogurt, low-fat, with sugar" GI = "33" GIFull = "33 +/- 7" Serving = "200 grams" GL = "10" />
+<food Name = "Yogurt, nonfat, no sugar" GI = "23" GIFull = "23 +/- 2" Serving = "200 grams" GL = "3" />
+<food Name = "Reduced-fat yogurt with fruit, average" GI = "27" GIFull = "27 +/- 1" Serving = "200 grams" GL = "7" />
+</foods>
+</category>
+<category Name="Fruits">
+<foods>
+<food Name = "Apple, average" GI = "38" GIFull = "38 +/- 2" Serving = "120 grams" GL = "6" />
+<food Name = "Apricots" GI = "57" GIFull = "57" Serving = "120 grams" GL = "5" />
+<food Name = "Apricots, dried" GI = "31" GIFull = "31 +/- 1" Serving = "60 grams" GL = "9" />
+<food Name = "Banana, ripe" GI = "51" GIFull = "51" Serving = "120 grams" GL = "13" />
+<food Name = "Cherries" GI = "22" GIFull = "22" Serving = "120 grams" GL = "3" />
+<food Name = "Dates, dried" GI = "103" GIFull = "103 +/- 21" Serving = "60 grams" GL = "42" />
+<food Name = "Grapefruit" GI = "25" GIFull = "25" Serving = "120 grams" GL = "3" />
+<food Name = "Grapes, average" GI = "46" GIFull = "46 +/- 3" Serving = "120 grams" GL = "8" />
+<food Name = "Kiwi fruit" GI = "53" GIFull = "53 +/- 6" Serving = "120 grams" GL = "6" />
+<food Name = "Mango" GI = "51" GIFull = "51 +/- 5" Serving = "120 grams" GL = "8" />
+<food Name = "Orange, average" GI = "42" GIFull = "42 +/- 3" Serving = "120 grams" GL = "5" />
+<food Name = "Peach, average" GI = "42" GIFull = "42 +/- 14" Serving = "120 grams" GL = "5" />
+<food Name = "Peach, canned in light syrup" GI = "52" GIFull = "52" Serving = "120 grams" GL = "9" />
+<food Name = "Pear, average" GI = "38" GIFull = "38 +/- 2" Serving = "120 grams" GL = "4" />
+<food Name = "Pear, canned in pear juice" GI = "44" GIFull = "44" Serving = "120 grams" GL = "5" />
+<food Name = "Pineapple juice, unsweetened" GI = "59" GIFull = "59 +/- 8" Serving = "120 grams" GL = "7" />
+<food Name = "Plums" GI = "39" GIFull = "39 +/- 15" Serving = "120 grams" GL = "5" />
+<food Name = "Prunes, pitted" GI = "29" GIFull = "29 +/- 4" Serving = "60 grams" GL = "10" />
+<food Name = "Raisins" GI = "64" GIFull = "64 +/- 11" Serving = "60 grams" GL = "28" />
+<food Name = "Strawberries" GI = "40" GIFull = "40 +/- 7" Serving = "120 grams" GL = "1" />
+<food Name = "Watermelon" GI = "72" GIFull = "72 +/- 13" Serving = "120 grams" GL = "4" />
+</foods>
+</category>
+<category Name="Beans and Nuts">
+<foods>
+<food Name = "Baked beans, average" GI = "48" GIFull = "48 +/- 8" Serving = "150 grams" GL = "7" />
+<food Name = "Blackeye peas, average" GI = "42" GIFull = "42 +/- 9" Serving = "150 grams" GL = "13" />
+<food Name = "Black beans" GI = "30" GIFull = "30" Serving = "150 grams" GL = "7" />
+<food Name = "Chickpeas, average" GI = "28" GIFull = "28 +/- 6" Serving = "150 grams" GL = "8" />
+<food Name = "Chickpeas, canned in brine" GI = "42" GIFull = "42" Serving = "150 grams" GL = "9" />
+<food Name = "Navy beans, average" GI = "38" GIFull = "38 +/- 6" Serving = "150 grams" GL = "12" />
+<food Name = "Kidney beans, average" GI = "28" GIFull = "28 +/- 4" Serving = "150 grams" GL = "7" />
+<food Name = "Lentils, average" GI = "29" GIFull = "29 +/- 1" Serving = "150 grams" GL = "5" />
+<food Name = "Soy beans, average" GI = "18" GIFull = "18 +/- 3" Serving = "150 grams" GL = "1" />
+<food Name = "Cashews, salted" GI = "22" GIFull = "22 +/- 5" Serving = "50 grams" GL = "3" />
+<food Name = "Peanuts, average" GI = "14" GIFull = "14 +/- 8" Serving = "50 grams" GL = "1" />
+</foods>
+</category>
+<category Name="Pasta and Noodles">
+<foods>
+<food Name = "Fettucini, average" GI = "40" GIFull = "40 +/- 8" Serving = "180 grams" GL = "18" />
+<food Name = "Instant Noodles" GI = "47" GIFull = "47 +/- 1" Serving = "180 grams" GL = "19" />
+<food Name = "Linguine" GI = "52" GIFull = "52 +/- 3" Serving = "180 grams" GL = "23" />
+<food Name = "Macaroni, average" GI = "47" GIFull = "47 +/- 2" Serving = "180 grams" GL = "23" />
+<food Name = "Macaroni and Cheese (Kraft)" GI = "64" GIFull = "64" Serving = "180 grams" GL = "32" />
+<food Name = "Ravioli" GI = "39" GIFull = "39 +/- 1" Serving = "180 grams" GL = "15" />
+<food Name = "Rice Noodles, dried, boiled" GI = "61" GIFull = "61 +/- 6" Serving = "180 grams" GL = "23" />
+<food Name = "Rice noodles, freshly made" GI = "40" GIFull = "40 +/- 4" Serving = "180 grams" GL = "15" />
+<food Name = "Spaghetti, white, boiled 5 min, average" GI = "38" GIFull = "38 +/- 3" Serving = "180 grams" GL = "18" />
+<food Name = "Spaghetti, white, boiled 20 min, average" GI = "61" GIFull = "61 +/- 3" Serving = "180 grams" GL = "27" />
+<food Name = "Spaghetti, wholemeal, boiled, average" GI = "37" GIFull = "37 +/- 5" Serving = "180 grams" GL = "16" />
+<food Name = "Tortellini, cheese" GI = "50" GIFull = "50" Serving = "180 grams" GL = "10" />
+<food Name = "Vermicelli, white, boiled" GI = "35" GIFull = "35 +/- 7" Serving = "180 grams" GL = "16" />
+</foods>
+</category>
+<category Name="Snack Foods">
+<foods>
+<food Name = "Chocolate, white" GI = "44" GIFull = "44 +/- 6" Serving = "50 grams" GL = "13" />
+<food Name = "Jelly beans" GI = "78" GIFull = "78 +/- 2" Serving = "30 grams" GL = "22" />
+<food Name = "Life Savers, peppermint candy" GI = "70" GIFull = "70 +/- 6" Serving = "30 grams" GL = "21" />
+<food Name = "Mars Bar" GI = "65" GIFull = "65 +/- 3" Serving = "60 grams" GL = "26" />
+<food Name = "Skittles" GI = "70" GIFull = "70 +/- 5" Serving = "50 grams" GL = "32" />
+<food Name = "Twix Cookie Bar, caramel" GI = "44" GIFull = "44 +/- 6" Serving = "60 grams" GL = "17" />
+<food Name = "Corn chips, plain, salted, average" GI = "63" GIFull = "63 +/- 10" Serving = "50 grams" GL = "17" />
+<food Name = "Fruit Roll-Ups" GI = "99" GIFull = "99 +/- 12" Serving = "30 grams" GL = "24" />
+<food Name = "M &amp; M's, peanut" GI = "33" GIFull = "33 +/- 3" Serving = "30 grams" GL = "6" />
+<food Name = "Microwave popcorn, plain, average" GI = "72" GIFull = "72 +/- 17" Serving = "20 grams" GL = "8" />
+<food Name = "Potato chips, average" GI = "54" GIFull = "54 +/- 3" Serving = "50 grams" GL = "11" />
+<food Name = "Pretzels, oven-baked" GI = "83" GIFull = "83 +/- 9" Serving = "30 grams" GL = "16" />
+<food Name = "Snickers Bar" GI = "55" GIFull = "55 +/- 14" Serving = "60 grams" GL = "19" />
+</foods>
+</category>
+<category Name="Vegetables">
+<foods>
+<food Name = "Green peas, average" GI = "48" GIFull = "48 +/- 5" Serving = "80 grams" GL = "3" />
+<food Name = "Carrots, average" GI = "47" GIFull = "47 +/- 16" Serving = "80 grams" GL = "3" />
+<food Name = "Parsnips" GI = "97" GIFull = "97 +/- 19" Serving = "80 grams" GL = "12" />
+<food Name = "Baked russet potato, average" GI = "85" GIFull = "85 +/- 12" Serving = "150 grams" GL = "26" />
+<food Name = "Boiled white potato, average" GI = "50" GIFull = "50 +/- 9" Serving = "150 grams" GL = "14" />
+<food Name = "Instant mashed potato, average" GI = "85" GIFull = "85 +/- 3" Serving = "150 grams" GL = "17" />
+<food Name = "Sweet potato, average" GI = "61" GIFull = "61 +/- 7" Serving = "150 grams" GL = "17" />
+<food Name = "Yam, average" GI = "37" GIFull = "37 +/- 8" Serving = "150 grams" GL = "13" />
+<food Name = "Pumpkin (South Africa)" GI = "75" GIFull = "75 +/- 9" Serving = "80 grams" GL = "3" />
+<food Name = "Corn on the cob" GI = "48" GIFull = "48" Serving = "80 grams" GL = "8" />
+<food Name = "French fries, frozen" GI = "75" GIFull = "75" Serving = "150 grams" GL = "22" />
+<food Name = "Mashed potatoes" GI = "74" GIFull = "74 +/- 5" Serving = "150 grams" GL = "15" />
+<food Name = "Sweet potato" GI = "61" GIFull = "61 +/- 7" Serving = "150 grams" GL = "17" />
+</foods>
+</category>
+<category Name="Soups">
+<foods>
+<food Name = "Black bean soup" GI = "64" GIFull = "64" Serving = "250 mL" GL = "17" />
+<food Name = "Green pea soup, canned" GI = "66" GIFull = "66" Serving = "250 mL" GL = "27" />
+<food Name = "Lentil soup, canned" GI = "44" GIFull = "44" Serving = "250 mL" GL = "9" />
+<food Name = "Minestrone soup, Traditional, Country Ladle" GI = "39" GIFull = "39 +/- 3" Serving = "250 mL" GL = "7" />
+<food Name = "Noodle soup" GI = "1" GIFull = "1" Serving = "250 mL" GL = "0" />
+<food Name = "Split pea soup" GI = "60" GIFull = "60" Serving = "250 mL" GL = "16" />
+<food Name = "Tomato soup" GI = "38" GIFull = "38 +/- 9" Serving = "250 mL" GL = "6" />
+</foods>
+</category>
+<category Name="Miscellaneous">
+<foods>
+<food Name = "Hummus (chickpea salad dip)" GI = "6" GIFull = "6 +/- 4" Serving = "30 grams" GL = "0" />
+<food Name = "Chicken nuggets, frozen, reheated in microwave oven 5 min" GI = "46" GIFull = "46 +/- 4" Serving = "100 grams" GL = "7" />
+<food Name = "Pizza, plain baked dough, served with parmesan cheese and tomato sauce" GI = "80" GIFull = "80" Serving = "100 grams" GL = "22" />
+<food Name = "Pizza, Super Supreme (Pizza Hut)" GI = "36" GIFull = "36 +/- 6" Serving = "100 grams" GL = "9" />
+<food Name = "Honey, average" GI = "55" GIFull = "55 +/- 5" Serving = "25 grams" GL = "10" />
+<food Name = "Sushi, average" GI = "52" GIFull = "52 +/- 4" Serving = "100 grams" GL = "19" />
+</foods>
+</category>
+</categories>

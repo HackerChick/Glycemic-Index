@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<categories>
+<category Name="Bakery Products and Breads">			
+<exercises>
+Angel food cake	67	50	19
+"Banana cake, made with sugar"	47±8	80	18
+"Banana cake, made without sugar"	55±10	80	16
+Chocolate cake with chocolate frosting	38 ± 3	111	20
+"Cupcake, strawberry-iced"	73 ± 12	38	19
+Pound cake	54	53	15
+"Sponge cake, plain"	46±6	63	17
+Vanilla cake with vanilla frosting	42±4	111	24
+Croissant	67	57	17
+Crumpet	69	50	13
+Doughnut	76	47	17
+Flan cake	65	70	31
+"Apple muffin, made with sugar"	44±6	60	13
+Apple muffin made without sugar	48±10	60	9
+Apricot muffin	60 ± 4	50	16
+Banana muffin	65 ± 11	50	17
+Bran muffin	60	57	15
+Blueberry muffin	59	57	17
+Carrot muffin	62	57	20
+Chocolate butterscotch muffin	53 ± 5	50	15
+"Corn muffin, low-amylose"	102	57	30
+"Corn muffin, high-amylose"	49		
+Oatmeal muffin	69	50	24
+Pancakes	67 ± 5	80	39
+"Pancakes, gluten-free"	102 ± 11	77	22
+Pastry	59 ± 6	57	15
+"Scones, plain"	92 ± 8	25	7
+"Waffles, Aunt Jemima"	76	35	10
+"Bagel, white, frozen"	72	70	25
+"Baguette, white, plain"	95±15	30	15
+"Coarse barley bread, 75-80% kernels, average"	34±4	30	7
+Buckwheat bread	47	30	10
+Hamburger bun	61	30	9
+Kaiser roll	73	30	12
+Melba toast	70	30	16
+Pumpernickel bread	50±4	30	6
+Gluten-free multigrain bread	79 ± 13	30	10
+"Rye-kernel bread, pumpernickel"	41	30	5
+50% cracked wheat kernel bread	58	30	12
+White wheat flour bread	70±0	30	10
+"Wonder™ bread, average"	73±2	30	10
+"Whole wheat bread, average"	71± 2	30	9
+100% Whole Grain™ bread	51±11	30	7
+"Pita bread, white"	57	30	10
+Corn tortilla	52	50	12
+Wheat tortilla	30	50	8
+</exercises>
+</categories>
+<category Name="Beverages">
+<exercises>
+"Coca Cola, average"	58±5	250	15
+"Fanta, orange soft drink"	68±6	250	23
+"Lucozade, original (sparkling glucose drink)"	95±10	250	40
+"Apple juice, unsweetened, average"	40±1	250	12
+Cranberry juice cocktail	68±3	250	24
+"Grapefruit juice, unsweetened"	48	250	11
+"Orange juice, average"	50±4	250	13
+"Pineapple juice, unsweetened"	46	250 mL	16
+"Tomato juice, canned"	38±4	250	4
+Gatorade	78 ± 13	250 mL	12
+Hot Chocolate mix made with hot water	51 ± 3	250 mL	11
+Chocolate Milk	43 ± 3	50	12
+</exercises>
+</categories>
+<category Name="Breakfast Cereals and Related Products">
+<exercises>
+"All-Bran™, average"	42±5	30	4
+Bran Flakes	74	30	13
+Cheerios	74		
+"Coco Pops™, average"	77	30	20
+Corn Bran	75	30	15
+Corn Chex	83	30	21
+Corn Pops	80 ± 4	30	21
+"Cornflakes™, average"	81±3	30	21
+Cream of Wheat™	66	250	17
+"Cream of Wheat™, Instant"	74	250	22
+Crispix	87	30	22
+Froot Loops	69 ± 9	30	18
+Golden Grahams	71	30	18
+Golden Wheats	71 ± 8	30	16
+"Grapenuts™, average"	71±4	30	15
+Life	66	30	15
+"Mini Wheats, whole wheat"	58 ± 8	30	12
+"Muesli, average"	66±9	30	16
+"Oatmeal, average"	58±4	250	13
+"Instant oatmeal, average"	66±1	250	17
+"Pop Tarts, double chocolate"	70 ± 2	50	25
+"Puffed wheat, average"	74±7	30	16
+Raisin Bran™	61±5	30	12
+Rice Chex	89	30	23
+Rice Krispies	82	30	22
+"Shredded wheat, average"	75	30	22
+Special K™	69±5	30	14
+</exercises>
+</categories>
+<category Name="Grains">
+<exercises>
+"Pearled barley, average"	25±1	150	11
+"Sweet corn on the cob, average"	53±4	150	17
+"Couscous, average"	65±4	150	23
+"White rice, average"	64±7	150	23
+Quick cooking white basmati	60±5	150	23
+"Basmati rice, average"	58	150	23
+"Brown rice, average"	55±5	150	18
+"Converted, white rice"	38	150	14
+"Whole wheat kernels, average"	41±3	50	14
+"Bulgur, average"	48±2	150	12
+COOKIES AND CRACKERS			
+Graham crackers	74	25	14
+Oatmeal cookies	54 ± 4	25	9
+Vanilla wafers	77	25	14
+Shortbread	64±8	25	10
+"Rice cakes, average"	78±9	25	17
+"Rye crisps, average"	64±2	25	11
+Soda crackers	74	25	12
+Breton Wheat crackers	67	25	10
+Stoned Wheat Thins	67	25	12
+Soda Crackers	74	25	12
+"Vita-wheat, original, crispbread"	55 ± 4	25	10
+</exercises>
+</categories>
+<category Name="Dairy Products and Alternatives">
+<exercises>
+Custard	38 ± 2	100	6
+"Ice cream, regular"	61±7	50	8
+"Ice cream, premium"	37±3	50	4
+"Ice cream, reduced or low-fat"	43	50	5
+"Milk, full fat"	27±4	250	3
+"Milk, skim"	32±5	250	4
+Soy milk	32 ± 2	250	7
+"Mousse, reduced-fat"	34 ± 1	50	4
+Pudding	44 ± 4	100	7
+Yogurt	36 ± 4	200	3
+"Yogurt, low-fat, with sugar"	33 ± 7	200	10
+"Yogurt, nonfat, no sugar"	23 ± 2	200	3
+"Reduced-fat yogurt with fruit, average"	27±1	200	7
+</exercises>
+</categories>
+<category Name="Fruits">
+<exercises>
+"Apple, average"	38±2	120	6
+Apricots	57	120	5
+"Apricots, dried"	31 ± 1	60	9
+"Banana, ripe"	51	120	13
+Cherries	22	120	3
+"Dates, dried"	103±21	60	42
+Grapefruit	25	120	3
+"Grapes, average"	46±3	120	8
+Kiwi fruit	53 ± 6	120	6
+Mango	51 ± 5	120	8
+"Orange, average"	42±3	120	5
+"Peach, average"	42±14	120	5
+"Peach, canned in light syrup"	52	120	9
+"Pear, average"	38±2	120	4
+"Pear, canned in pear juice"	44	120	5
+"Pineapple juice, unsweetened"	59 ± 8	120	7
+Plums	39 ± 15	120	5
+"Prunes, pitted"	29±4	60	10
+Raisins	64±11	60	28
+Strawberries	40 ± 7	120	1
+Watermelon	72±13	120	4
+</exercises>
+</categories>
+<category Name="Beans and Nuts">
+<exercises>
+"Baked beans, average"	48±8	150	7
+"Blackeye peas, average"	42±9	150	13
+Black beans	30	150	7
+"Chickpeas, average"	28±6	150	8
+"Chickpeas, canned in brine"	42	150	9
+"Navy beans, average"	38±6	150	12
+"Kidney beans, average"	28±4	150	7
+"Lentils, average"	29±1	150	5
+"Soy beans, average"	18±3	150	1
+"Cashews, salted"	22±5	50	3
+"Peanuts, average"	14±8	50	1
+</exercises>
+</categories>
+<category Name="Pasta and Noodles">
+<exercises>
+"Fettucini, average"	40±8	180	18
+Instant Noodles	47 ± 1	180	19
+Linguine	52 ± 3	180	23
+"Macaroni, average"	47±2	180	23
+Macaroni and Cheese (Kraft)	64	180	32
+Ravioli	39 ± 1	180	15
+"Rice Noodles, dried, boiled"	61 ± 6	180	23
+"Rice noodles, freshly made"	40 ± 4	180	15
+"Spaghetti, white, boiled 5 min, average"	38±3	180	18
+"Spaghetti, white, boiled 20 min, average"	61±3	180	27
+"Spaghetti, wholemeal, boiled, average"	37±5	180	16
+"Tortellini, cheese"	50	180	10
+"Vermicelli, white, boiled"	35 ± 7	180	16
+</exercises>
+</categories>
+<category Name="Snack Foods">
+<exercises>
+"Chocolate, white"	44 ± 6	50	13
+Jelly beans	78 ± 2	30	22
+"Life Savers, peppermint candy"	70 ± 6	30	21
+Mars Bar	65 ± 3	60	26
+Skittles	70 ± 5	50	32
+"Twix Cookie Bar, caramel"	44 ± 6	60	17
+"Corn chips, plain, salted, average"	63±10	50	17
+Fruit Roll-Ups	99±12	30	24
+"M & M's®, peanut"	33±3	30	6
+"Microwave popcorn, plain, average"	72±17	20	8
+"Potato chips, average"	54±3	50	11
+"Pretzels, oven-baked"	83±9	30	16
+Snickers Bar	55±14	60	19
+</exercises>
+</categories>
+<category Name="Vegetables">
+<exercises>
+"Green peas, average"	48±5	80	3
+"Carrots, average"	47±16	80	3
+Parsnips	97±19	80	12
+"Baked russet potato, average"	85±12	150	26
+"Boiled white potato, average"	50±9	150	14
+"Instant mashed potato, average"	85±3	150	17
+"Sweet potato, average"	61±7	150	17
+"Yam, average"	37±8	150	13
+Pumpkin (South Africa)	75 ± 9	80	3
+Corn on the cob	48	80	8
+"French fries, frozen"	75	150	22
+Mashed potatoes	74 ± 5	150	15
+Sweet potato	61 ± 7	150	17
+</exercises>
+</categories>
+<category Name="Soups">
+<exercises>
+Black bean soup	64	250 mL	17
+"Green pea soup, canned"	66	250 mL	27
+"Lentil soup, canned"	44	250 mL	9
+"Minestrone soup, Traditional, Country Ladle"	39 ± 3	250 mL	7
+Noodle soup	1	250 mL	0
+Split pea soup	60	250 mL	16
+Tomato soup	38 ± 9	250 mL	6
+</exercises>
+</categories>
+<category Name="Miscellaneous">
+<exercises>
+Hummus (chickpea salad dip)	6±4	30	0
+"Chicken nuggets, frozen, reheated in microwave oven 5 min"	46±4	100	7
+"Pizza, plain baked dough, served with parmesan cheese and tomato sauce"	80	100	22
+"Pizza, Super Supreme (Pizza Hut)"	36±6	100	9
+"Honey, average"	55±5	25	10
+"Sushi, average"	52 ± 4	100	19
+</exercises>
+</categories>
